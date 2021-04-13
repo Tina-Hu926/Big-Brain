@@ -20,6 +20,7 @@
     "history": "^5.0.0",
     "jsonwebtoken": "^8.5.1",
     "nodemon": "^2.0.6",
+    "react-redux": "^7.2.3",
     "supertest": "^6.0.0",
     "swagger-ui-express": "^4.1.4"
   },
